@@ -5,6 +5,9 @@
 We created a fun and interactive web application that allows users to create and save a personalized collection of romance novel covers. Users can create custom covers using a form, or they can ask the program to generate random covers for them. User input elements including images, titles, and descriptors are also saved and added into the random generation process, so when they click to receive a random cover, their custom inputs can be included. Whether custom-created or randomly generated, users can save their favorite covers to the site, and can also delete covers they no longer want or need.
 
 ### Installation Instructions:
+##### Run via web:
+[Click Here to Launch](https://sulton88mehron90.github.io/pairproject_romcom/)
+##### Run local:
 [//]: <> (What steps does a person have to take to get your app cloned down and running?)
 1. Fork this repository
 2. Clone down your new, forked repo
